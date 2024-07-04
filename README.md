@@ -1,6 +1,9 @@
 bold_text = "\033[1m"
+
 reset_text = "\033[0m"
+
 text_color = "\033[34m"
+
 underline = "\033[4m"
 
 These are universal variables that manipulate the strings in the code when printed out
